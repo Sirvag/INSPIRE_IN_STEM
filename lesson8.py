@@ -3,14 +3,14 @@
 #tabs \t
 print("Monday\tTuesday\tWednesday\tThursday\tFriday\t")
 #newline \n
-print("Kisumu\nNairobi\nMombasa\n")
+print("Nairobi\nMombasa\nKisumu\n")
 #!/usr/bin/python
 
 #################################
 
 #      Dictionaries
 #      Name : Collins Muli
-#      Date : 17/06/2003 
+#      Date : 17/06/2021 
 ##################################
 
 
