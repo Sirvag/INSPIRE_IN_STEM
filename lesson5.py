@@ -1,5 +1,5 @@
 ########      Dictionaries
-#       Name : Carson Maina
+#       Name : Collins muli
 #       Date : 19/5/2022
 
 # methods
@@ -22,10 +22,10 @@ print(user_name.rstrip)
 print(user_name.lstrip)
 
 #Multiline strings
-msg= '''WERTYUI56783H Mpesa confirmed
+msg= '''WETSSVJ67894K Mpesa confirmed
         you have received 2300 from 
         James Muoki 
-        18th May 2022
+        26th July 2021
         safaricom transparent for you
         '''
 print(msg)
