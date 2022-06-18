@@ -9,32 +9,32 @@ print("Kisumu\nNairobi\nMombasa\n")
 #################################
 
 #      Dictionaries
-#      Name : Sifa Lookia
-#      Date : 23/ 09 /2003 
+#      Name : Collins Muli
+#      Date : 17/06/2003 
 ##################################
 
 
 # Initializing dictionaries
-student = {"Name" : "Sifa" , "age" : 18 , "gender" : "female" , "hobbie" : "reading"}
+student = {"Name" : "Collins" , "age" : 22 , "gender" : "Male" , "hobbie" : "reading"}
 print(student["Name"])
 print(student["age"])
 print(student["gender"])
 print(student["hobbie"])
-student ["ID-No"] = "40751481"
-student ["Club"] = "Man-city"
+student ["ID-No"] = "26401607"
+student ["Club"] = "Man-Utd"
 print(student)
 
 #Starting with an empty dictionary
 
 student = {}
-student["fav-food"] = "chapati"
+student["fav-food"] = "cicken wings"
 student["home_city"] = "Nairobi"
-student["fav_song"] = "No_wahala"
+student["fav_song"] = "Stocks"
 print(student)
 
 #Modifying the values in a dictionary
-student["Name"] = "Athelia"
-student["age"] = 21
+student["Name"] = "Amelia"
+student["age"] = 20
 print(student)
 
 #Removing key values from a dictionary
@@ -46,4 +46,4 @@ print(student)
 def create_full_name(first_name,second_name):
     person = {'first':first_name, 'second':second_name}
     return person
-print(create_full_name("Sifa","Gakeni"))
+print(create_full_name("Collins","Muli"))
