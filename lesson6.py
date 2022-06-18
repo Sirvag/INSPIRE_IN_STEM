@@ -1,5 +1,5 @@
 ######       Dictionaries
-#       Name : Carson Maina
+#       Name : Collins Muli
 #       Date : 20/5/2022
 ######################################
 
