@@ -2,8 +2,8 @@
 
 ######################################
 #       dictionaries
-#       Name : Colins muli
-#       Date : 24/5/2022
+#       Name : Collins muli
+#       Date : 17/6/2022
 ######################################
 
 #dictionary is a collection of key value pairs
