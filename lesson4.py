@@ -1,5 +1,5 @@
 ########      Intergers
-#       Name : Carson Maina
+#       Name : Collins Muli
 #       Date : 18/5/2022
 
 
