@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 ########      arithmetic progression
-#       Name : Carson Maina
+#       Name : Collins Muli
 #       Date : 27/5/2022
 ######################################
 #a=first_number
